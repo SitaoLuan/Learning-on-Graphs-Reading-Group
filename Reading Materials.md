@@ -1,4 +1,4 @@
-# Learning-on-Graphs-Reading-Group
+# Schedule(tentative)
 
 Week 1: Overview + Spectral Graph Theory
 
