@@ -13,11 +13,15 @@ Geometric deep learningon graphs and manifolds, Michael Bronstein, Joan Bruna, A
 ### Week 3 (Jan 27, 2020, Mon): Spectral Convolutional Neural Networks
 
  
-### Week 4 (Sep 3, 2020, Mon): Invited talk (Solving Optimization Problems with Graph Networks)
+### Week 4 (Sep 3, 2020, Mon): Invited talk (Tentative, Solving Optimization Problems with Graph Networks)
+
+NeurIPS 2019 Talk, Graph Representation Learning for Optimization on Graphs: https://slideslive.com/38921873/graph-representation-learning-4
 
 Exact Combinatorial Optimization with Graph Convolutional Neural Networks: https://arxiv.org/pdf/1906.01629.pdf
 
-Tentative
+Learning Combinatorial Optimization Algorithms over Graphs: https://papers.nips.cc/paper/7214-learning-combinatorial-optimization-algorithms-over-graphs.pdf
+
+A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Networks: https://www.padl.ws/papers/Paper%2017.pdf
 
 ### Week 5 (Sep 10, 2020, Mon): 
 
