@@ -4,7 +4,7 @@
 
 Chung F R K, Graham F C. Spectral graph theory[M]. American Mathematical Soc., 1997. https://b-ok.cc/book/1133167/fba36a
 
-### Week 2: Convolutions Defined on Graph
+### Week 2 (Jan 22, 2020, Wed): Convolutions Defined on Graph
 
 http://geometricdeeplearning.com/
 
