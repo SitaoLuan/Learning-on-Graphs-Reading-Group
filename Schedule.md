@@ -15,6 +15,8 @@ Geometric deep learningon graphs and manifolds, Michael Bronstein, Joan Bruna, A
  
 ### Week 4 (Sep 3, 2020, Mon): Invited talk (Solving Optimization Problems with Graph Networks)
 
+Exact Combinatorial Optimization with Graph Convolutional Neural Networks: https://arxiv.org/pdf/1906.01629.pdf
+
 Tentative
 
 ### Week 5 (Sep 10, 2020, Mon): 
