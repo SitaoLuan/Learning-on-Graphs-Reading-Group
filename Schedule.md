@@ -13,7 +13,7 @@ Geometric deep learningon graphs and manifolds, Michael Bronstein, Joan Bruna, A
 ### Week 3 (Jan 27, 2020, Mon): Spectral Convolutional Neural Networks
 
  
-### Week 4 (Sep 3, 2020, Mon): Invited talk (Solving Mixed Integer Optimization with Graph Networks)
+### Week 4 (Sep 3, 2020, Mon): Invited talk (Solving Optimization Problems with Graph Networks)
 
 Tentative
 
