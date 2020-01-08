@@ -1,10 +1,10 @@
 # Schedule(tentative)
-
-### Week 1 (Jan 15, 2020, Wed): Overview + Spectral Graph Theory
+10:00 - 12:00 am at MC321
+### Week 1 (Jan 13, 2020, Mon): Overview + Spectral Graph Theory
 
 Chung F R K, Graham F C. Spectral graph theory[M]. American Mathematical Soc., 1997. https://b-ok.cc/book/1133167/fba36a
 
-### Week 2 (Jan 22, 2020, Wed): Convolutions Defined on Graph
+### Week 2 (Jan 20, 2020, Mon): Convolutions Defined on Graph
 
 http://geometricdeeplearning.com/
 
