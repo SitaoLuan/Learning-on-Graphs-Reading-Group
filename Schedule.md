@@ -1,4 +1,4 @@
-# Schedule(tentative): 10:00 - 12:00 am at MC321
+# Schedule(tentative): 10:00 - 12:00 at MC321
 
 ### Week 1 (Jan 13, 2020, Mon): Overview + Spectral Graph Theory
 
