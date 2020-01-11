@@ -4,6 +4,8 @@
 
 On the Effectiveness of Laplacian Normalization for Graph Semi-supervised Learning, 2007: http://riejohnson.com/rie/JZ07_Laplacian.pdf
 
+On spectral clustering: Analysis and an algorithm, 2002. https://papers.nips.cc/paper/2092-on-spectral-clustering-analysis-and-an-algorithm.pdf
+
 Chung F R K, Graham F C. Spectral graph theory[M]. American Mathematical Soc., 1997. https://b-ok.cc/book/1133167/fba36a
 
 ### Week 2 (Jan 20, 2020, Mon): Convolutions Defined on Graph
