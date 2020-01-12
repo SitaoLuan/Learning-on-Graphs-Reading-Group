@@ -6,6 +6,8 @@ A Comprehensive Survey on Graph Neural Networks, 2019. https://arxiv.org/pdf/190
 
 Graph convolutional networks: a comprehensive review, 2019. https://link.springer.com/content/pdf/10.1186%2Fs40649-019-0069-y.pdf
 
+Deep Learning on Graphs: A Survey, 2018. https://arxiv.org/pdf/1812.04202.pdf
+
 Graph Neural Networks: A Review of Methods and Applications, 2018. https://arxiv.org/pdf/1812.08434.pdf
 
 Attention Models in Graphs: A Survey, 2018. https://arxiv.org/pdf/1807.07984.pdf
