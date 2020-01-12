@@ -15,3 +15,5 @@ Geometric deep learning- going beyond Euclidean data, 2016. https://arxiv.org/pd
 # Other Reading Lists
 
 https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications
+
+https://github.com/cshjin/pl_in_neurips_2019
