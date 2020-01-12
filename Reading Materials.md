@@ -12,3 +12,6 @@ Attention Models in Graphs: A Survey, 2018. https://arxiv.org/pdf/1807.07984.pdf
 
 Geometric deep learning- going beyond Euclidean data, 2016. https://arxiv.org/pdf/1611.08097.pdf
 
+# Other Reading Lists
+
+https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-publications
