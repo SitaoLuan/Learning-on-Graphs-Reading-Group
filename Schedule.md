@@ -31,7 +31,10 @@ Semi-supervised classification with graph convolutional networks, 2017. https://
 Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering, 2016. https://arxiv.org/pdf/1606.09375.pdf
  
 Autoregressive Moving Average Graph Filtering, 2016. https://arxiv.org/pdf/1602.04436.pdf
- 
+
+Deep Convolutional Networks on Graph-Structured Data, 2015. https://arxiv.org/pdf/1506.05163.pdf
+
+Spectral Networks and Deep Locally Connected Networks on Graphs, 2013. https://arxiv.org/pdf/1312.6203.pdf
  
 ## Week 4 (Sep 3, 2020, Mon): Invited talk (Tentative, Solving Optimization Problems with Graph Networks)
 
