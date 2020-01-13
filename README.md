@@ -50,4 +50,4 @@ A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Network
 
 ## Week 5 (Sep 10, 2020, Mon): Message Passing Framework and Its Connection with Spectral Convolutional Networks
 
-## Possible Future Topics: Graph (Network) Embedding and Matrix Factorization, Relation-Embedding, Simplified Training Schemes, Graph Generation, Pooling Techniques, Graph RNN, Temporal GNN.
+## Possible Future Topics: Graph (Network) Embedding and Matrix Factorization, Relation-Embedding, Simplified Training Schemes, Graph Generation, Pooling Techniques, Graph RNN, Temporal GNN, Heterogeneous Graph Network.
