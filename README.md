@@ -48,6 +48,6 @@ Learning Combinatorial Optimization Algorithms over Graphs. https://papers.nips.
 
 A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Networks. https://www.padl.ws/papers/Paper%2017.pdf
 
-## Week 5 (Sep 10, 2020, Mon): 
+## Week 5 (Sep 10, 2020, Mon): Message Passing Framework and Its Connection with Spectral Convolutional Networks
 
-## Possible Topics: Graph (Network) Embedding and Matrix Factorization, Relation-Embedding, Simplified Training Schemes, Graph Generation, Pooling Techniques, Graph RNN, Temporal GNN.
+## Possible Future Topics: Graph (Network) Embedding and Matrix Factorization, Relation-Embedding, Simplified Training Schemes, Graph Generation, Pooling Techniques, Graph RNN, Temporal GNN.
