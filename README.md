@@ -32,6 +32,8 @@ Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering, 
  
 Autoregressive Moving Average Graph Filtering, 2016. https://arxiv.org/pdf/1602.04436.pdf
 
+Accelerated filtering on graphs using Lanczos method, 2015. https://arxiv.org/pdf/1509.04537.pdf
+
 Deep Convolutional Networks on Graph-Structured Data, 2015. https://arxiv.org/pdf/1506.05163.pdf
 
 Spectral Networks and Deep Locally Connected Networks on Graphs, 2013. https://arxiv.org/pdf/1312.6203.pdf
