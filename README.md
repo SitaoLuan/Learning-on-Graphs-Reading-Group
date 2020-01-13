@@ -48,4 +48,4 @@ A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Network
 
 ## Week 5 (Sep 10, 2020, Mon): 
 
-## Possible Topics: Graph (Network) Embedding, Relation-Embedding, Simplified Training Schemes, Graph Generation, Pooling Techniques, Graph RNN, Temporal GNN.
+## Possible Topics: Graph (Network) Embedding and Matrix Factorization, Relation-Embedding, Simplified Training Schemes, Graph Generation, Pooling Techniques, Graph RNN, Temporal GNN.
