@@ -8,11 +8,15 @@ On spectral clustering: Analysis and an algorithm, 2002. https://papers.nips.cc/
 
 Chung F R K, Graham F C. Spectral graph theory[M]. American Mathematical Soc., 1997. https://b-ok.cc/book/1133167/fba36a
 
-## Week 2 (Jan 20, 2020, Mon): Convolutions Defined on Graph
+## Week 2 (Jan 20, 2020, Mon): Convolutions Defined on Graph and Graph Filtering (Graph Signal Processing)
 
 http://geometricdeeplearning.com/
 
 Geometric deep learningon graphs and manifolds, Michael Bronstein, Joan Bruna, Arthur Szlam, Xavier Bresson, Yann LeCun.  https://www.dropbox.com/s/99eyutemrdb17kj/SIAM%202018.pdf?dl=0
+
+Design of graph filters and filterbanks, 2017. https://arxiv.org/pdf/1711.02046.pdf
+
+Wavelet Regularized Graph Semi Supervised Learning, 2013. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.600.9672&rep=rep1&type=pdf
 
 ## Week 3 (Jan 27, 2020, Mon): Spectral Convolutional Neural Networks
 
