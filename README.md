@@ -37,8 +37,14 @@ Accelerated filtering on graphs using Lanczos method, 2015. https://arxiv.org/pd
 Deep Convolutional Networks on Graph-Structured Data, 2015. https://arxiv.org/pdf/1506.05163.pdf
 
 Spectral Networks and Deep Locally Connected Networks on Graphs, 2013. https://arxiv.org/pdf/1312.6203.pdf
- 
-## Week 4 (Feb 3, 2020, Mon): Invited talk (Tentative, Solving Optimization Problems with Graph Networks)
+
+## Week 4 (Feb 3, 2020, Mon): Message Passing Framework and Its Connection with Spectral Convolutional Networks
+
+## Week 5 (Feb 10, 2020, Mon):
+
+## Week 6 (Feb 17, 2020, Mon):
+
+## Week 7 (Feb 24, 2020, Mon): Invited talk by Defeng Liu on Solving Optimization Problems with Graph Networks
 
 NeurIPS 2019 Talk, Graph Representation Learning for Optimization on Graphs. https://slideslive.com/38921873/graph-representation-learning-4
 
@@ -48,6 +54,4 @@ Learning Combinatorial Optimization Algorithms over Graphs. https://papers.nips.
 
 A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Networks. https://www.padl.ws/papers/Paper%2017.pdf
 
-## Week 5 (Feb 10, 2020, Mon): Message Passing Framework and Its Connection with Spectral Convolutional Networks
-
-## Possible Future Topics: Graph (Network) Embedding and Matrix Factorization, Relation-Embedding, Simplified Training Schemes, Graph Generation, Pooling Techniques, Graph RNN, Temporal GNN, Heterogeneous Graph Network.
+## Possible Future Topics: Graph (Network) Embedding and Matrix Factorization, Relation Embedding, Simplified Training Schemes, Graph Generation, Pooling Techniques, Graph RNN, Temporal GNN, Heterogeneous Graph Network.
