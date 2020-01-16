@@ -54,4 +54,4 @@ Learning Combinatorial Optimization Algorithms over Graphs. https://papers.nips.
 
 A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Networks. https://www.padl.ws/papers/Paper%2017.pdf
 
-## Possible Future Topics: Graph (Network) Embedding and Matrix Factorization, Relation Embedding, Simplified Training Schemes, Graph Generation, Pooling Techniques, Graph RNN, Temporal GNN, Heterogeneous Graph Network.
+## Possible Future Topics: Graph (Network) Embedding and Matrix Factorization, Relation Embedding, Simplified Training Schemes, Graph Generation, Pooling Techniques, Graph RNN, Temporal GNN, Heterogeneous Graph Network, Graph Attention.
