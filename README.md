@@ -52,10 +52,10 @@ Spectral Networks and Deep Locally Connected Networks on Graphs, 2013. https://a
 
 NeurIPS 2019 Talk, Graph Representation Learning for Optimization on Graphs. https://slideslive.com/38921873/graph-representation-learning-4
 
-Exact Combinatorial Optimization with Graph Convolutional Neural Networks. https://arxiv.org/pdf/1906.01629.pdf
+Exact Combinatorial Optimization with Graph Convolutional Neural Networks, 2019. https://arxiv.org/pdf/1906.01629.pdf
 
-Learning Combinatorial Optimization Algorithms over Graphs. https://papers.nips.cc/paper/7214-learning-combinatorial-optimization-algorithms-over-graphs.pdf
+Learning Combinatorial Optimization Algorithms over Graphs, 2019. https://papers.nips.cc/paper/7214-learning-combinatorial-optimization-algorithms-over-graphs.pdf
 
-A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Networks. https://www.padl.ws/papers/Paper%2017.pdf
+A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Networks, 2017. https://www.padl.ws/papers/Paper%2017.pdf
 
 ## Possible Future Topics: Graph (Network) Embedding and Matrix Factorization, Relation Embedding, Simplified Training Schemes, Graph Generation, Pooling Techniques, Graph RNN, Temporal GNN, Heterogeneous Graph Network, Graph Attention.
