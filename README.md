@@ -18,7 +18,11 @@ Design of graph filters and filterbanks, 2017. https://arxiv.org/pdf/1711.02046.
 
 Wavelet Regularized Graph Semi Supervised Learning, 2013. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.600.9672&rep=rep1&type=pdf
 
-## Week 3 (Jan 27, 2020, Mon): Spectral Convolutional Neural Networks
+## Week 3 (Jan 27, 2020, Mon): Canceled because of ICML deadline.
+
+## Week 4 (Feb 3, 2020, Mon): Canceled because of ICML deadline.
+
+## Week 5 (Feb 10, 2020, Mon):Spectral Convolutional Neural Networks
 
 Break the Ceiling: Stronger Multi-scale DeepGraph Convolutional Networks, 2019. https://arxiv.org/pdf/1906.02174.pdf
 
@@ -42,11 +46,8 @@ Deep Convolutional Networks on Graph-Structured Data, 2015. https://arxiv.org/pd
 
 Spectral Networks and Deep Locally Connected Networks on Graphs, 2013. https://arxiv.org/pdf/1312.6203.pdf
 
-## Week 4 (Feb 3, 2020, Mon): Message Passing Framework and Its Connection with Spectral Convolutional Networks
 
-## Week 5 (Feb 10, 2020, Mon):
-
-## Week 6 (Feb 17, 2020, Mon):
+## Week 6 (Feb 17, 2020, Mon): Message Passing Framework and Its Connection with Spectral Convolutional Networks
 
 ## Week 7 (Feb 24, 2020, Mon): Invited talk by Defeng Liu on Solving Optimization Problems with Graph Networks
 
