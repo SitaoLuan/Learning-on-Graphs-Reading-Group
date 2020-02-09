@@ -61,4 +61,10 @@ Learning Combinatorial Optimization Algorithms over Graphs, 2019. https://papers
 
 A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Networks, 2017. https://www.padl.ws/papers/Paper%2017.pdf
 
+## Week 8 (Mar 2, 2020, Mon):  
+
+## Week 9 (Mar 9, 2020, Mon):  
+
+## Week 10 (Mar 16, 2020, Mon):  
+
 ## Possible Future Topics: Graph (Network) Embedding and Matrix Factorization, Relation Embedding, Simplified Training Schemes, Graph Generation, Pooling Techniques, Graph RNN, Temporal GNN, Heterogeneous Graph Network, Graph Attention, Interpretability (Explainer).
