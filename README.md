@@ -18,9 +18,9 @@ Design of graph filters and filterbanks, 2017. https://arxiv.org/pdf/1711.02046.
 
 Wavelet Regularized Graph Semi Supervised Learning, 2013. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.600.9672&rep=rep1&type=pdf
 
-## Week 3 (Jan 27, 2020, Mon): Canceled because of ICML deadline.
+## Week 3 (Jan 27, 2020, Mon): Cancelled because of ICML deadline.
 
-## Week 4 (Feb 3, 2020, Mon): Canceled because of ICML deadline.
+## Week 4 (Feb 3, 2020, Mon): Cancelled because of ICML deadline.
 
 ## Week 5 (Feb 10, 2020, Mon):Spectral Convolutional Neural Networks
 
