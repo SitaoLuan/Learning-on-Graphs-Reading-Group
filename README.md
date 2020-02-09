@@ -47,7 +47,9 @@ Deep Convolutional Networks on Graph-Structured Data, 2015. https://arxiv.org/pd
 Spectral Networks and Deep Locally Connected Networks on Graphs, 2013. https://arxiv.org/pdf/1312.6203.pdf
 
 
-## Week 6 (Feb 17, 2020, Mon): Message Passing Framework and Its Connection with Spectral Convolutional Networks
+## Week 6 (Feb 17, 2020, Mon): Expressive Power of GCN
+
+Graph Neural Networks Exponentially Lose Expressive Power for Node Classification, 2019: https://openreview.net/forum?id=S1ldO2EFPr, https://arxiv.org/pdf/1905.10947.pdf
 
 ## Week 7 (Feb 24, 2020, Mon): Invited talk by Defeng Liu on Solving Optimization Problems with Graph Networks
 
