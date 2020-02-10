@@ -61,7 +61,7 @@ Learning Combinatorial Optimization Algorithms over Graphs, 2019. https://papers
 
 A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Networks, 2017. https://www.padl.ws/papers/Paper%2017.pdf
 
-## Week 8 (Mar 2, 2020, Mon):  
+## Week 8 (Mar 2, 2020, Mon):  Expressive Power of GNN (Weisfeiler-Leman Algorithm Based Networks)
 
 ## Week 9 (Mar 9, 2020, Mon):  
 
