@@ -47,9 +47,8 @@ Deep Convolutional Networks on Graph-Structured Data, 2015. https://arxiv.org/pd
 Spectral Networks and Deep Locally Connected Networks on Graphs, 2013. https://arxiv.org/pdf/1312.6203.pdf
 
 
-## Week 6 (Feb 17, 2020, Mon): Expressive Power of GCN
+## Week 6 (Feb 17, 2020, Mon): Spatial-based GNNs (Message-passing and Attention)
 
-Graph Neural Networks Exponentially Lose Expressive Power for Node Classification, 2019: https://openreview.net/forum?id=S1ldO2EFPr, https://arxiv.org/pdf/1905.10947.pdf
 
 ## Week 7 (Feb 24, 2020, Mon): Invited talk by Defeng Liu on Solving Optimization Problems with Graph Networks
 
@@ -61,10 +60,12 @@ Learning Combinatorial Optimization Algorithms over Graphs, 2019. https://papers
 
 A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Networks, 2017. https://www.padl.ws/papers/Paper%2017.pdf
 
-## Week 8 (Mar 2, 2020, Mon):  Expressive Power of GNN (Weisfeiler-Leman Algorithm Based Networks)
+## Week 8 (Mar 2, 2020, Mon):  Expressive Power of GCN
 
-## Week 9 (Mar 9, 2020, Mon):  
+Graph Neural Networks Exponentially Lose Expressive Power for Node Classification, 2019: https://openreview.net/forum?id=S1ldO2EFPr, https://arxiv.org/pdf/1905.10947.pdf
 
-## Week 10 (Mar 16, 2020, Mon):  
+## Week 9 (Mar 9, 2020, Mon):  Expressive Power of GNNs (Weisfeiler-Leman Algorithm Based Networks)
+
+## Week 10 (Mar 16, 2020, Mon): Graph (Network) Embedding
 
 ## Possible Future Topics: Graph (Network) Embedding and Matrix Factorization, Relation Embedding, Simplified Training Schemes, Graph Generation, Pooling Techniques, Graph RNN, Temporal GNN, Heterogeneous Graph Network, Graph Attention, Interpretability (Explainer).
