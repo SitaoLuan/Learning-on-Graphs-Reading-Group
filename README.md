@@ -49,6 +49,11 @@ Spectral Networks and Deep Locally Connected Networks on Graphs, 2013. https://a
 
 ## Week 6 (Feb 17, 2020, Mon): Spatial-based GNNs (Message-passing and Attention)
 
+Graph Attention Networks, 2018. https://arxiv.org/pdf/1710.10903.pdf
+
+Inductive Representation Learning on Large Graphs, 2017. https://cs.stanford.edu/people/jure/pubs/graphsage-nips17.pdf
+
+Neural Message Passing for Quantum Chemistry, 2017. https://arxiv.org/pdf/1704.01212.pdf
 
 ## Week 7 (Feb 24, 2020, Mon): Invited talk by Defeng Liu on Solving Optimization Problems with Graph Networks
 
