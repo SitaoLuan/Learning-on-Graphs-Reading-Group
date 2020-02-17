@@ -73,4 +73,4 @@ Graph Neural Networks Exponentially Lose Expressive Power for Node Classificatio
 
 ## Week 10 (Mar 16, 2020, Mon): Graph (Network) Embedding
 
-## Possible Future Topics: Graph (Network) Embedding and Matrix Factorization, Relation Embedding, Simplified Training Schemes(Sampling Methods), Graph Generation, Pooling Techniques, Graph RNN, Temporal GNN, Heterogeneous Graph Network, Graph Attention, Interpretability (Explainer).
+## Possible Future Topics: Graph (Network) Embedding and Matrix Factorization, Relation Embedding, Simplified Training Schemes(Sampling Methods), Graph Generation, Pooling Techniques, Graph Kernels, Graph RNN, Temporal GNN, Heterogeneous Graph Network, Graph Attention, Interpretability (Explainer).
