@@ -69,7 +69,7 @@ A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Network
 
 Graph Neural Networks Exponentially Lose Expressive Power for Node Classification, 2019: https://openreview.net/forum?id=S1ldO2EFPr, https://arxiv.org/pdf/1905.10947.pdf
 
-## Week 9 (Mar 9, 2020, Mon):  Expressive Power of GNNs (Weisfeiler-Leman Algorithm Based Networks)
+## Week 9 (Mar 9, 2020, Mon):  Expressive Power of GNNs (Weisfeiler-Lehman Algorithm Based Networks)
 
 ## Week 10 (Mar 16, 2020, Mon): Graph (Network) Embedding
 
