@@ -72,6 +72,9 @@ Graph Neural Networks Exponentially Lose Expressive Power for Node Classificatio
 An Anatomy of Graph Neural Networks Going Deep via the Lens of Mutual Information: Exponential Decay vs. Full Preservation, 2019. https://arxiv.org/pdf/1910.04499.pdf
 
 What graph neural networks cannot learn: depth vs width, 2019: https://arxiv.org/pdf/1907.03199.pdf
+
+Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology, 2019: https://arxiv.org/pdf/1907.05008.pdf
+
 ## Week 9 (Mar 9, 2020, Mon):  Expressive Power of GNNs (Weisfeiler-Lehman Algorithm Based Networks, Graph Classification and Isomorphism Problems)
 
 ## Week 10 (Mar 16, 2020, Mon): Graph (Network) Embedding
