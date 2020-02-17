@@ -77,6 +77,8 @@ Understanding the Representation Power of Graph Neural Networks in Learning Grap
 
 ## Week 9 (Mar 9, 2020, Mon):  Expressive Power of GNNs (Weisfeiler-Lehman Algorithm Based Networks, Graph Classification and Isomorphism Problems)
 
+How Powerful are Graph Neural Networks? 2018: https://arxiv.org/pdf/1810.00826.pdf
+
 ## Week 10 (Mar 16, 2020, Mon): Graph (Network) Embedding
 
 ## Possible Future Topics: Graph (Network) Embedding and Matrix Factorization, Relation Embedding, Simplified Training Schemes(Sampling Methods), Link Prediction, Graph Generation, Pooling Techniques, Graph Kernels, Graph RNN, Temporal GNN, Heterogeneous Graph Network, Graph Attention, Interpretability (Explainer).
