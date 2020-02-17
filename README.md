@@ -69,8 +69,11 @@ A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Network
 
 Graph Neural Networks Exponentially Lose Expressive Power for Node Classification, 2019: https://openreview.net/forum?id=S1ldO2EFPr, https://arxiv.org/pdf/1905.10947.pdf
 
+An Anatomy of Graph Neural Networks Going Deep via the Lens of Mutual Information: Exponential Decay vs. Full Preservation, 2019. https://arxiv.org/pdf/1910.04499.pdf
+
+What graph neural networks cannot learn: depth vs width, 2019: https://arxiv.org/pdf/1907.03199.pdf
 ## Week 9 (Mar 9, 2020, Mon):  Expressive Power of GNNs (Weisfeiler-Lehman Algorithm Based Networks)
 
 ## Week 10 (Mar 16, 2020, Mon): Graph (Network) Embedding
 
-## Possible Future Topics: Graph (Network) Embedding and Matrix Factorization, Relation Embedding, Simplified Training Schemes(Sampling Methods), Graph Generation, Pooling Techniques, Graph Kernels, Graph RNN, Temporal GNN, Heterogeneous Graph Network, Graph Attention, Interpretability (Explainer).
+## Possible Future Topics: Graph (Network) Embedding and Matrix Factorization, Relation Embedding, Simplified Training Schemes(Sampling Methods), Link Prediction, Graph Generation, Pooling Techniques, Graph Kernels, Graph RNN, Temporal GNN, Heterogeneous Graph Network, Graph Attention, Interpretability (Explainer).
