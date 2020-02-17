@@ -75,7 +75,7 @@ What graph neural networks cannot learn: depth vs width, 2019: https://arxiv.org
 
 Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology, 2019: https://arxiv.org/pdf/1907.05008.pdf
 
-## Week 9 (Mar 9, 2020, Mon):  Expressive Power of GNNs (Weisfeiler-Lehman Algorithm Based Networks, Graph Classification and Isomorphism Problems)
+## Week 9 (Mar 9, 2020, Mon):  Expressive Power of GNNs (Weisfeiler-Lehman Algorithm Based Networks, Graph Isomorphism and Classification Problems)
 
 How Powerful are Graph Neural Networks? 2018: https://arxiv.org/pdf/1810.00826.pdf
 
