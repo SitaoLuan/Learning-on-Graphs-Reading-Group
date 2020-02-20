@@ -26,3 +26,4 @@ https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neu
 
 https://github.com/cshjin/pl_in_neurips_2019
 
+https://github.com/thunlp/KRLPapers (Knowledge Graph Embedding)
