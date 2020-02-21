@@ -79,6 +79,6 @@ Understanding the Representation Power of Graph Neural Networks in Learning Grap
 
 How Powerful are Graph Neural Networks? 2018: https://arxiv.org/pdf/1810.00826.pdf
 
-## Week 10 (Mar 16, 2020, Mon): Graph (Network) Embedding
+## Week 10 (Mar 16, 2020, Mon): Connection Between Knowledge Graph Embedding and Group Theory: Inspirations and Applications
 
 ## Possible Future Topics: Graph (Network) Embedding and Matrix Factorization, Knowledge Graph Embedding, Simplified Training Schemes(Sampling Methods), Link Prediction, Graph Generation, Pooling Techniques, Graph Kernels, Graph RNN, Temporal GNN, Heterogeneous Graph Network, Graph Attention, Interpretability (Explainer), Hypergraph Networks, Permutation Invariant GNN, Connection with Group Theory, Embeddings in Hyperbolic Space, Graph X(GAN, VAE, Transformer, Normalizing Flow).
