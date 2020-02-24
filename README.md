@@ -61,7 +61,7 @@ NeurIPS 2019 Talk, Graph Representation Learning for Optimization on Graphs. htt
 
 Exact Combinatorial Optimization with Graph Convolutional Neural Networks, 2019. https://arxiv.org/pdf/1906.01629.pdf
 
-Learning Combinatorial Optimization Algorithms over Graphs, 2019. https://papers.nips.cc/paper/7214-learning-combinatorial-optimization-algorithms-over-graphs.pdf
+Learning Combinatorial Optimization Algorithms over Graphs, 2017. https://papers.nips.cc/paper/7214-learning-combinatorial-optimization-algorithms-over-graphs.pdf
 
 A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Networks, 2017. https://www.padl.ws/papers/Paper%2017.pdf
 
