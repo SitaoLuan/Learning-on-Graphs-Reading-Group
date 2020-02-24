@@ -75,10 +75,18 @@ What graph neural networks cannot learn: depth vs width, 2019: https://arxiv.org
 
 Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology, 2019: https://arxiv.org/pdf/1907.05008.pdf
 
+## Week 10 (Mar 16, 2020, Mon): Connection Between Knowledge Graph Embedding and Group Theory: Inspirations and Applications
+
+Group Representation Theory for Knowledge Graph Embedding, 2019: https://grlearning.github.io/papers/15.pdf
+
+A Group-Theoretic Framework for Knowledge Graph Embedding, 2019: https://openreview.net/pdf?id=r1e30AEKPr
+
+Relation Embedding with Dihedral Group in Knowledge Graph, 2019: https://www.aclweb.org/anthology/P19-1026.pdf
+
+TorusE: Knowledge Graph Embedding on a Lie Group, 2018: https://arxiv.org/abs/1711.05435
+
 ## Week 9 (Mar 9, 2020, Mon):  Expressive Power of GNNs (Weisfeiler-Lehman Algorithm Based Networks, Graph Isomorphism and Classification Problems)
 
 How Powerful are Graph Neural Networks? 2018: https://arxiv.org/pdf/1810.00826.pdf
-
-## Week 10 (Mar 16, 2020, Mon): Connection Between Knowledge Graph Embedding and Group Theory: Inspirations and Applications
 
 ## Possible Future Topics: Graph (Network) Embedding and Matrix Factorization, Knowledge Graph Embedding, Simplified Training Schemes(Sampling Methods), Link Prediction, Graph Generation, Pooling Techniques, Graph Kernels, Graph RNN, Temporal GNN, Heterogeneous Graph Network, Graph Attention, Interpretability (Explainer), Hypergraph Networks, Permutation Invariant GNN, Connection with Group Theory, Embeddings in Hyperbolic Space, Graph X(GAN, VAE, Transformer, Normalizing Flow).
