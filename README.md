@@ -91,4 +91,6 @@ How Powerful are Graph Neural Networks? 2018: https://arxiv.org/pdf/1810.00826.p
 
 ## Week 11 (Mar 23, 2020, Mon): Graph Kernels
 
-## Possible Future Topics: Graph (Network) Embedding and Matrix Factorization, Knowledge Graph Embedding, Simplified Training Schemes(Sampling Methods), Link Prediction, Graph Generation, Pooling Techniques, Graph Kernels, Graph RNN, Temporal GNN, Heterogeneous Graph Network, Graph Attention, Interpretability (Explainer), Hypergraph Networks, Permutation Invariant GNN, Embeddings in Hyperbolic Space, Graph X(GAN, VAE, Transformer, Normalizing Flow).
+## Week 12 (Mar 30, 2020, Mon): Permutation Invariant and Equivariant GNN
+
+## Possible Future Topics: Graph (Network) Embedding and Matrix Factorization, Simplified Training Schemes(Sampling Methods), Link Prediction, Graph Generation, Pooling Techniques, Graph RNN, Temporal GNN, Heterogeneous Graph Network, Graph Attention, Interpretability (Explainer), Hypergraph Networks, Embeddings in Hyperbolic Space, Graph X(GAN, VAE, Transformer, Normalizing Flow).
