@@ -55,7 +55,7 @@ Inductive Representation Learning on Large Graphs, 2017. https://cs.stanford.edu
 
 Neural Message Passing for Quantum Chemistry, 2017. https://arxiv.org/pdf/1704.01212.pdf
 
-## Week 7 (Feb 24, 2020, Mon): Invited talk by Defeng Liu on Solving Optimization Problems with Graph Networks
+## Week 7 (Feb 24, 2020, Mon): Invited talk by Defeng Liu on Solving Optimization Problems with Graph Networks [Slides](https://arxiv.org/abs/1906.02174)
 
 NeurIPS 2019 Talk, Graph Representation Learning for Optimization on Graphs. https://slideslive.com/38921873/graph-representation-learning-4
 
