@@ -69,7 +69,7 @@ A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Network
 
 ## Week 9 (Mar 9, 2020, Mon):  Expressive Power of GCN
 
-Graph Neural Networks Exponentially Lose Expressive Power for Node Classification, 2019. [(paper)](https://openreview.net/forum?id=S1ldO2EFPr, https://arxiv.org/pdf/1905.10947.pdf)
+Graph Neural Networks Exponentially Lose Expressive Power for Node Classification, 2019. [(openreview, ](https://openreview.net/forum?id=S1ldO2EFPr) [paper)](https://arxiv.org/pdf/1905.10947.pdf)
 
 An Anatomy of Graph Neural Networks Going Deep via the Lens of Mutual Information: Exponential Decay vs. Full Preservation, 2019. [(paper)](https://arxiv.org/pdf/1910.04499.pdf)
 
