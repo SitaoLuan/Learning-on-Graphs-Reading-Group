@@ -57,7 +57,7 @@ Neural Message Passing for Quantum Chemistry, 2017. [(paper)](https://arxiv.org/
 
 ## Week 7 (Feb 24, 2020, Mon): Invited talk by Defeng Liu on Solving Optimization Problems with Graph Networks [(Slides)](https://github.com/SitaoLuan/Learning-on-Graphs-Reading-Group/blob/master/GNNsOpt_DefengLiu.pdf)
 
-NeurIPS 2019 Talk, Graph Representation Learning for Optimization on Graphs. [(paper)](https://slideslive.com/38921873/graph-representation-learning-4)
+NeurIPS 2019 Talk, Graph Representation Learning for Optimization on Graphs. [(video)](https://slideslive.com/38921873/graph-representation-learning-4)
 
 Exact Combinatorial Optimization with Graph Convolutional Neural Networks, 2019. [(paper)](https://arxiv.org/pdf/1906.01629.pdf)
 
