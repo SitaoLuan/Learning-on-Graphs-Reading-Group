@@ -2,7 +2,7 @@
 
 ## Week 1 (Jan 13, 2020, Mon): Overview(Tasks and Datasets) + Spectral Graph Theory
 
-On the Effectiveness of Laplacian Normalization for Graph Semi-supervised Learning, 2007. http://riejohnson.com/rie/JZ07_Laplacian.pdf
+On the Effectiveness of Laplacian Normalization for Graph Semi-supervised Learning, 2007. [paper](http://riejohnson.com/rie/JZ07_Laplacian.pdf)
 
 On spectral clustering: Analysis and an algorithm, 2002. https://papers.nips.cc/paper/2092-on-spectral-clustering-analysis-and-an-algorithm.pdf
 
