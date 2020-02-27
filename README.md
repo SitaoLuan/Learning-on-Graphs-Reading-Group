@@ -65,7 +65,9 @@ Learning Combinatorial Optimization Algorithms over Graphs, 2017. [(paper)](http
 
 A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Networks, 2017. [(paper)](https://www.padl.ws/papers/Paper%2017.pdf)
 
-## Week 8 (Mar 2, 2020, Mon):  Expressive Power of GCN
+## Week 8 (Mar 2, 2020, Mon):  Cancelled because of reading week
+
+## Week 9 (Mar 9, 2020, Mon):  Expressive Power of GCN
 
 Graph Neural Networks Exponentially Lose Expressive Power for Node Classification, 2019. [(paper)](https://openreview.net/forum?id=S1ldO2EFPr, https://arxiv.org/pdf/1905.10947.pdf)
 
@@ -75,7 +77,7 @@ What graph neural networks cannot learn: depth vs width, 2019. [(paper)](https:/
 
 Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology, 2019. [(paper)](https://arxiv.org/pdf/1907.05008.pdf)
 
-## Week 9 (Mar 9, 2020, Mon): Connection Between Knowledge Graph Embedding and Group Theory: Inspirations and Applications
+## Week 10 (Mar 16, 2020, Mon): Connection Between Knowledge Graph Embedding and Group Theory: Inspirations and Applications
 
 Group Representation Theory for Knowledge Graph Embedding, 2019. [(paper)](https://grlearning.github.io/papers/15.pdf)
 
@@ -85,12 +87,12 @@ Relation Embedding with Dihedral Group in Knowledge Graph, 2019. [(paper)](https
 
 TorusE: Knowledge Graph Embedding on a Lie Group, 2018. [(paper)](https://arxiv.org/abs/1711.05435)
 
-## Week 10 (Mar 16, 2020, Mon): Expressive Power of GNNs (Weisfeiler-Lehman Algorithm Based Networks, Graph Isomorphism and Classification Problems)
+## Week 11 (Mar 23, 2020, Mon): Expressive Power of GNNs (Weisfeiler-Lehman Algorithm Based Networks, Graph Isomorphism and Classification Problems)
 
 How Powerful are Graph Neural Networks? 2018. [(paper)](https://arxiv.org/pdf/1810.00826.pdf)
 
-## Week 11 (Mar 23, 2020, Mon): Graph Kernels
+## Week 12 (Mar 30, 2020, Mon): Graph Kernels
 
-## Week 12 (Mar 30, 2020, Mon): Permutation Invariant and Equivariant GNN
+## Week 13 (Apr 6, 2020, Mon): Permutation Invariant and Equivariant GNN
 
 ## Possible Future Topics: Embedding in Complex Spaxe, Graph (Network) Embedding and Matrix Factorization, Simplified Training Schemes(Sampling Methods), Link Prediction, Graph Generation, Pooling Techniques, Graph RNN, Temporal GNN, Heterogeneous Graph Network, Graph Attention, Interpretability (Explainer), Hypergraph Networks, Embeddings in Hyperbolic Space, Graph X(GAN, VAE, Transformer, Normalizing Flow).
