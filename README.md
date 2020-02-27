@@ -95,4 +95,10 @@ How Powerful are Graph Neural Networks? 2018. [(paper)](https://arxiv.org/pdf/18
 
 ## Week 13 (Apr 6, 2020, Mon): Permutation Invariant and Equivariant GNN
 
+## Week 14 (Apr 13, 2020, Mon): TBD
+
+## Week 15 (Apr 20, 2020, Mon): TBD
+
+## Week 16 (Apr 27, 2020, Mon): TBD
+
 ## Possible Future Topics: Embedding in Complex Spaxe, Graph (Network) Embedding and Matrix Factorization, Simplified Training Schemes(Sampling Methods), Link Prediction, Graph Generation, Pooling Techniques, Graph RNN, Temporal GNN, Heterogeneous Graph Network, Graph Attention, Interpretability (Explainer), Hypergraph Networks, Embeddings in Hyperbolic Space, Graph X(GAN, VAE, Transformer, Normalizing Flow).
