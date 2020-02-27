@@ -67,27 +67,27 @@ A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Network
 
 ## Week 8 (Mar 2, 2020, Mon):  Expressive Power of GCN
 
-Graph Neural Networks Exponentially Lose Expressive Power for Node Classification, 2019: [(paper)](https://openreview.net/forum?id=S1ldO2EFPr, https://arxiv.org/pdf/1905.10947.pdf)
+Graph Neural Networks Exponentially Lose Expressive Power for Node Classification, 2019. [(paper)](https://openreview.net/forum?id=S1ldO2EFPr, https://arxiv.org/pdf/1905.10947.pdf)
 
 An Anatomy of Graph Neural Networks Going Deep via the Lens of Mutual Information: Exponential Decay vs. Full Preservation, 2019. [(paper)](https://arxiv.org/pdf/1910.04499.pdf)
 
-What graph neural networks cannot learn: depth vs width, 2019: [(paper)](https://arxiv.org/pdf/1907.03199.pdf)
+What graph neural networks cannot learn: depth vs width, 2019. [(paper)](https://arxiv.org/pdf/1907.03199.pdf)
 
-Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology, 2019: [(paper)](https://arxiv.org/pdf/1907.05008.pdf)
+Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology, 2019. [(paper)](https://arxiv.org/pdf/1907.05008.pdf)
 
 ## Week 9 (Mar 9, 2020, Mon): Connection Between Knowledge Graph Embedding and Group Theory: Inspirations and Applications
 
-Group Representation Theory for Knowledge Graph Embedding, 2019: [(paper)](https://grlearning.github.io/papers/15.pdf)
+Group Representation Theory for Knowledge Graph Embedding, 2019. [(paper)](https://grlearning.github.io/papers/15.pdf)
 
-A Group-Theoretic Framework for Knowledge Graph Embedding, 2019: [(paper)](https://openreview.net/pdf?id=r1e30AEKPr)
+A Group-Theoretic Framework for Knowledge Graph Embedding, 2019. [(paper)](https://openreview.net/pdf?id=r1e30AEKPr)
 
-Relation Embedding with Dihedral Group in Knowledge Graph, 2019: [(paper)](https://www.aclweb.org/anthology/P19-1026.pdf)
+Relation Embedding with Dihedral Group in Knowledge Graph, 2019. [(paper)](https://www.aclweb.org/anthology/P19-1026.pdf)
 
-TorusE: Knowledge Graph Embedding on a Lie Group, 2018: [(paper)](https://arxiv.org/abs/1711.05435)
+TorusE: Knowledge Graph Embedding on a Lie Group, 2018. [(paper)](https://arxiv.org/abs/1711.05435)
 
 ## Week 10 (Mar 16, 2020, Mon): Expressive Power of GNNs (Weisfeiler-Lehman Algorithm Based Networks, Graph Isomorphism and Classification Problems)
 
-How Powerful are Graph Neural Networks? 2018: [(paper)](https://arxiv.org/pdf/1810.00826.pdf)
+How Powerful are Graph Neural Networks? 2018. [(paper)](https://arxiv.org/pdf/1810.00826.pdf)
 
 ## Week 11 (Mar 23, 2020, Mon): Graph Kernels
 
