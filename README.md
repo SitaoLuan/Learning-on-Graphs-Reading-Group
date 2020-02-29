@@ -83,9 +83,15 @@ Group Representation Theory for Knowledge Graph Embedding, 2019. [(paper)](https
 
 A Group-Theoretic Framework for Knowledge Graph Embedding, 2019. [(paper)](https://openreview.net/pdf?id=r1e30AEKPr)
 
+Quaternion Knowledge Graph Embeddings, 2019. [(paper)](https://arxiv.org/pdf/1904.10281.pdf)
+
 Relation Embedding with Dihedral Group in Knowledge Graph, 2019. [(paper)](https://www.aclweb.org/anthology/P19-1026.pdf)
 
+RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space, 2019. [(paper)](https://arxiv.org/pdf/1902.10197.pdf)
+
 TorusE: Knowledge Graph Embedding on a Lie Group, 2018. [(paper)](https://arxiv.org/abs/1711.05435)
+
+Complex Embeddings for Simple Link Prediction, 2016. [(paper)](http://proceedings.mlr.press/v48/trouillon16.pdf)
 
 ## Week 11 (Mar 23, 2020, Mon): Expressive Power of GNNs (Weisfeiler-Lehman Algorithm Based Networks, Graph Isomorphism and Classification Problems)
 
