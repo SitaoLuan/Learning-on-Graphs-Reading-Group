@@ -67,7 +67,7 @@ A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Network
 
 ## Week 8 (Mar 2, 2020, Mon):  Cancelled because of reading week
 
-## Week 9 (Mar 9, 2020, Mon):  Expressive Power of GCN
+## Week 9 (Mar 9, 2020, Mon):  Expressive Power of GCN-1
 
 Graph Neural Networks Exponentially Lose Expressive Power for Node Classification, 2019. [(openreview, ](https://openreview.net/forum?id=S1ldO2EFPr) [paper)](https://arxiv.org/pdf/1905.10947.pdf)
 
@@ -77,7 +77,11 @@ What graph neural networks cannot learn: depth vs width, 2019. [(paper)](https:/
 
 Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology, 2019. [(paper)](https://arxiv.org/pdf/1907.05008.pdf)
 
-## Week 10 (Mar 16, 2020, Mon): Connection Between Knowledge Graph Embedding and Group Theory: Inspirations and Applications
+## Week 10 (Mar 16, 2020, Mon): Expressive Power of GCN-2
+
+Continue the proofs in Graph Neural Networks Exponentially Lose Expressive Power for Node Classification, 2019. [(openreview, ](https://openreview.net/forum?id=S1ldO2EFPr) [paper)](https://arxiv.org/pdf/1905.10947.pdf)
+
+## Week 11 (Mar 23, 2020, Mon): Connection Between Knowledge Graph Embedding and Group Theory: Inspirations and Applications
 
 Group Representation Theory for Knowledge Graph Embedding, 2019. [(paper)](https://grlearning.github.io/papers/15.pdf)
 
@@ -93,17 +97,15 @@ TorusE: Knowledge Graph Embedding on a Lie Group, 2018. [(paper)](https://arxiv.
 
 Complex Embeddings for Simple Link Prediction, 2016. [(paper)](http://proceedings.mlr.press/v48/trouillon16.pdf)
 
-## Week 11 (Mar 23, 2020, Mon): Expressive Power of GNNs (Weisfeiler-Lehman Algorithm Based Networks, Graph Isomorphism and Classification Problems)
+## Week 12 (Mar 30, 2020, Mon): Expressive Power of GNNs (Weisfeiler-Lehman Algorithm Based Networks, Graph Isomorphism and Classification Problems)
 
 How Powerful are Graph Neural Networks? 2018. [(paper)](https://arxiv.org/pdf/1810.00826.pdf)
 
-## Week 12 (Mar 30, 2020, Mon): Graph Kernels
+## Week 13 (Apr 6, 2020, Mon): Graph Kernels
 
-## Week 13 (Apr 6, 2020, Mon): Permutation Invariant and Equivariant GNN
+## Week 14 (Apr 13, 2020, Mon): Permutation Invariant and Equivariant GNN
 
-## Week 14 (Apr 13, 2020, Mon): Embeddings in Hyperbolic Space
-
-## Week 15 (Apr 20, 2020, Mon): TBD
+## Week 15 (Apr 20, 2020, Mon): Embeddings in Hyperbolic Space
 
 ## Week 16 (Apr 27, 2020, Mon): TBD
 
