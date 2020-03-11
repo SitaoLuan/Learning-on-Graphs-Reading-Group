@@ -55,7 +55,7 @@ Inductive Representation Learning on Large Graphs, 2017. [(paper)](https://cs.st
 
 Neural Message Passing for Quantum Chemistry, 2017. [(paper)](https://arxiv.org/pdf/1704.01212.pdf)
 
-## Week 7 (Feb 24, 2020, Mon): Invited talk by Defeng Liu on Solving Optimization Problems with Graph Networks [(Slides)](https://github.com/SitaoLuan/Learning-on-Graphs-Reading-Group/blob/master/GNNsOpt_DefengLiu.pdf)
+## Week 7 (Feb 24, 2020, Mon): Invited Talk by Defeng Liu on Solving Optimization Problems with Graph Networks [(Slides)](https://github.com/SitaoLuan/Learning-on-Graphs-Reading-Group/blob/master/GNNsOpt_DefengLiu.pdf)
 
 NeurIPS 2019 Talk, Graph Representation Learning for Optimization on Graphs. [(video)](https://slideslive.com/38921873/graph-representation-learning-4)
 
@@ -107,6 +107,6 @@ How Powerful are Graph Neural Networks? 2018. [(paper)](https://arxiv.org/pdf/18
 
 ## Week 15 (Apr 20, 2020, Mon): Embeddings in Hyperbolic Space
 
-## Week 16 (Apr 27, 2020, Mon): TBD
+## Week 16 (Apr 27, 2020, Mon): Invited Talk by Jikung Kang on Multi-agent RL with Graph
 
 ## Possible Future Topics: Embedding in Complex Spaxe, Graph (Network) Embedding and Matrix Factorization, Simplified Training Schemes(Sampling Methods), Link Prediction, Graph Generation, Pooling Techniques, Graph RNN, Temporal GNN, Heterogeneous Graph Networks, Multi-relation Graph Networks, Graph Attention, Interpretability (Explainer), Hypergraph Networks, Graph X(GAN, VAE, Self-attention, Transformer, Normalizing Flow).
