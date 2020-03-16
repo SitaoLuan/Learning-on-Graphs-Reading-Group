@@ -109,4 +109,8 @@ How Powerful are Graph Neural Networks? 2018. [(paper)](https://arxiv.org/pdf/18
 
 ## Week 16 (Apr 27, 2020, Mon): Invited Talk by Jikung Kang on Multi-agent RL with Graph
 
+## GNNs and Probabilistic Models: 
+
+GMNN: Graph Markov Neural Networks, 2019. [(paper)](https://arxiv.org/pdf/1905.06214.pdf)
+
 ## Possible Future Topics: Embedding in Complex Spaxe, Graph (Network) Embedding and Matrix Factorization, Simplified Training Schemes(Sampling Methods), Link Prediction, Graph Generation, Pooling Techniques, Graph RNN, Temporal GNN, Heterogeneous Graph Networks, Multi-relation Graph Networks, Graph Attention, Interpretability (Explainer), Hypergraph Networks, Graph X(GAN, VAE, Self-attention, Transformer, Normalizing Flow).
