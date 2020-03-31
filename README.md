@@ -103,7 +103,11 @@ How Powerful are Graph Neural Networks? 2018. [(paper)](https://arxiv.org/pdf/18
 
 ## Week 13 (Apr 6, 2020, Mon): Graph Kernels
 
-## Week 14 (Apr 13, 2020, Mon): Permutation Invariant and Equivariant GNN
+## Week 14 (Apr 13, 2020, Mon): Node Embedding and Structure Embeddinng
+
+On the Equivalence between Node Embeddings and Structural Graph Representations, 2019. [(paper)](https://arxiv.org/pdf/1910.00452.pdf)
+
+word2vec, node2vec, graph2vec, X2vec: Towards a Theory of Vector Embeddings of Structured Data, 2020. [(paper)](https://arxiv.org/abs/2003.12590.pdf)
 
 ## Week 15 (Apr 20, 2020, Mon): Embeddings in Hyperbolic Space
 
