@@ -117,4 +117,10 @@ word2vec, node2vec, graph2vec, X2vec: Towards a Theory of Vector Embeddings of S
 
 GMNN: Graph Markov Neural Networks, 2019. [(paper)](https://arxiv.org/pdf/1905.06214.pdf)
 
+## Learning on Graph and Representation Learning for Reinforcement Learning:
+
+Representation Learning on Graphs: A Reinforcement Learning Application, 2019. [(paper)](http://proceedings.mlr.press/v89/madjiheurem19a/madjiheurem19a.pdf)
+
+Measuring Structural Similarities in Finite MDPs, 2019. [(paper)](https://www.ijcai.org/Proceedings/2019/0511.pdf)
+
 ## Possible Future Topics: Embedding in Complex Spaxe, Graph (Network) Embedding and Matrix Factorization, Simplified Training Schemes(Sampling Methods), Link Prediction, Graph Generation, Pooling Techniques, Graph RNN, Temporal GNN, Heterogeneous Graph Networks, Multi-relation Graph Networks, Graph Attention, Adversarial&Robustness Interpretability (Explainer), Hypergraph Networks, Graph X(GAN, VAE, Self-attention, Transformer, Normalizing Flow).
