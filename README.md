@@ -109,6 +109,8 @@ On the Equivalence between Node Embeddings and Structural Graph Representations,
 
 word2vec, node2vec, graph2vec, X2vec: Towards a Theory of Vector Embeddings of Structured Data, 2020. [(paper)](https://arxiv.org/pdf/2003.12590.pdf)
 
+## Efficient Training of GNN (Training Time, Memory, Performance)
+
 ## Week 15 (Apr 20, 2020, Mon): Embeddings in Hyperbolic Space
 
 ## Week 16 (Apr 27, 2020, Mon): Invited Talk by Jikung Kang on Multi-agent RL with Graph
