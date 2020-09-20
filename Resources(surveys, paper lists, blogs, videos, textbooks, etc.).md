@@ -30,10 +30,22 @@ https://github.com/thunlp/KRLPapers (Knowledge Graph Embedding)
 
 # Blogs
 
-https://medium.com/@michael.bronstein
+Michael Bronstein: https://medium.com/@michael.bronstein
 
 # Video Playlist
 
 https://www.youtube.com/playlist?list=PLe0J3_6vYq7vV49iRuTy6q9I6_MYVpB2R
 
 https://www.youtube.com/playlist?list=PLe0J3_6vYq7tIT2cgWG7CxIz0Vvt8phgH
+
+# Textbooks
+
+https://www.cs.mcgill.ca/~wlh/grl_book/
+
+# Courses
+
+COMP766, Graph Representation Learning(William L. Hamilton, McGill University): https://cs.mcgill.ca/~wlh/comp766/
+
+CS224W, Machine Learning with Graphs(Jure Leskovec & Michele Catasta, Stanford): https://web.stanford.edu/class/cs224w/
+
+ESE680, Graph Neural Networks (Alejandro Ribeiro, University of Pennsylvania): https://gnn.seas.upenn.edu/
