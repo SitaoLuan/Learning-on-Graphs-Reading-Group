@@ -14,7 +14,7 @@ Attention Models in Graphs: A Survey, 2018. https://arxiv.org/pdf/1807.07984.pdf
 
 Geometric deep learning- going beyond Euclidean data, 2016. https://arxiv.org/pdf/1611.08097.pdf
 
-# Other Reading Lists
+# Paper Lists
 
 https://github.com/DeepGraphLearning/LiteratureDL4Graph
 
@@ -27,3 +27,13 @@ https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neu
 https://github.com/cshjin/pl_in_neurips_2019
 
 https://github.com/thunlp/KRLPapers (Knowledge Graph Embedding)
+
+# Blogs
+
+https://medium.com/@michael.bronstein
+
+# Video Playlist
+
+https://www.youtube.com/playlist?list=PLe0J3_6vYq7vV49iRuTy6q9I6_MYVpB2R
+
+https://www.youtube.com/playlist?list=PLe0J3_6vYq7tIT2cgWG7CxIz0Vvt8phgH
