@@ -5,4 +5,4 @@
 
 ## Week 5-8 (Oct 26 - Nov 19, 2020, Mon): Graph Signal Processing – Part II: Processing and Analyzing Signals on Graphs by Jiaqi Zhu [(paper)](https://arxiv.org/pdf/1909.10325.pdf) [(Slides)](https://github.com/SitaoLuan/Learning-on-Graphs-Reading-Group/blob/master/2020%20Fall/gsp2-1.pdf)
  
-## Week 9-10 (Nov 23 - , 2020, Mon): Graph Signal Processing – Part III:Machine Learning on Graphs, from Graph Topology to Applications by Chenqing Hua [(paper)](https://arxiv.org/pdf/2001.00426.pdf) [(Slides)]()
+## Week 9-10 (Nov 23 - , 2020, Mon): Graph Signal Processing – Part III:Machine Learning on Graphs, from Graph Topology to Applications by Chenqing Hua [(paper)](https://arxiv.org/pdf/2001.00426.pdf) [(Slides)](https://github.com/SitaoLuan/Learning-on-Graphs-Reading-Group/blob/master/2020%20Fall/GNN.pdf)
