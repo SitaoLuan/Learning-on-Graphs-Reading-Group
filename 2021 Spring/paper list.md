@@ -5,5 +5,5 @@
 
 ## Week 4-8 (Feb 15 - March 15, 2021, Mon): Graph Representation Learning – Part II: Graph Neural Networks by Jiaqi Zhu [(book)](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf) [(Slides)]()
 
-## Week 9-10 (March 22 - March 29, 2021, Mon): Graph Representation Learning – Part III: Generative Graph Models by Sitao Luan [(book)](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf) [(Slides)]()
+## Week 9-10 (March 22 - March 29, 2021, Mon): Graph Representation Learning – Part III: Generative Graph Models by Sitao Luan [(book)](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf) [(Slides)](https://github.com/SitaoLuan/Learning-on-Graphs-Reading-Group/blob/master/2021%20Spring/Graph%20Generative%20Models_no_notes.pdf)
 
